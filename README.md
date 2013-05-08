@@ -1,0 +1,3 @@
+a nearly empty README file.
+
+This is schmerdy's playground repo. You clone or fork it, you inherit a lot of rubbish...
