@@ -1,0 +1,7 @@
+{
+  "strategy": "http://ec2-54-235-174-123.compute-1.amazonaws.com/hanaxs.tar.gz"),
+  "host": "hanasvr-08.sapdevcenter.com:30015",
+  "user": "GUEST",
+  "password": "Password1",
+  "root": "sap.devex"
+}
