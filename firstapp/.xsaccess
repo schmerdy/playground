@@ -1,4 +1,4 @@
 {
   "exposed": true,
-  "authentication" : [{ "method" : "Basic" }]
+  "authentication" : null]
 }
