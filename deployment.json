@@ -1,5 +1,5 @@
 {
   "strategy": "hanaxs"),
   "host": "hanasvr-07.sapdevcenter.com:30015",
-  "root": "sap.demo"
+  "root": "demo"
 }
