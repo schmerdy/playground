@@ -1,5 +1,5 @@
 {
-  "strategy": "http://ec2-54-235-174-123.compute-1.amazonaws.com/hanaxs.tar.gz"),
+  "strategy": "hanaxs"),
   "host": "hanasvr-07.sapdevcenter.com:30015",
   "root": "sap.devex"
 }
